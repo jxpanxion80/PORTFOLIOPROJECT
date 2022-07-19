@@ -1,2 +1,2 @@
 # PORTFOLIOPROJECT
-Web page of my didgtal portfolio
+Web page of my digital portfolio
